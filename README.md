@@ -19,6 +19,12 @@ Projenin amacı, Hamming SEC-DED (Single Error Correcting, Double Error Detectin
 ✅ Hata tespiti ve düzeltme  
 ✅ Görsel kullanıcı arayüzü (GUI)
 
+## 📺 Proje Tanıtım Videosu
+
+[![Hamming SEC-DED Simülatörü Tanıtım Videosu](https://img.youtube.com/vi/euzm4p7dx68/0.jpg)](https://www.youtube.com/watch?v=euzm4p7dx68)
+
+Proje ile ilgili detayları ve kullanımını videodan izleyebilirsiniz.
+
 ## 🖥️ Ekran Görüntüsü
 
 ![Ekran Görüntüsü](ekran1.png)
